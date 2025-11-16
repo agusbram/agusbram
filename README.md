@@ -21,6 +21,8 @@ Before finding my passion for computer science, I studied electronic engineering
 - `PostgreSQL`, `SQL`
 - `Agile Methodologies`
 - `Traditional Methodologies`
+- `Business Inteligence`
+-  `Linux and Windows operating system administration`
 
 ### Knowledge 🧠   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterxDual&layout=compact&theme=github_dark)
