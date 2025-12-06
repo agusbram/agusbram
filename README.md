@@ -25,7 +25,7 @@ Before finding my passion for computer science, I studied electronic engineering
 -  `Linux and Windows operating system administration`
 
 ### Knowledge 🧠   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusbram&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusbram&layout=compact&theme=github_dark&langs_count=8&cache_seconds=1800)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%ADn-brambilla/)
