@@ -24,8 +24,8 @@ Before finding my passion for computer science, I studied electronic engineering
 - `Business Inteligence`
 -  `Linux and Windows operating system administration`
 
-### Knowledge 🧠   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusbram&layout=compact&theme=github_dark&cache_seconds=0](https://github-readme-stats.vercel.app/api/top-langs/?username=agusbram&layout=compact&theme=github_dark&count_private=true&langs_count=8)
+### Knowledge 🧠  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusbram&layout=compact&theme=github_dark&count_private=true&langs_count=8&cache_seconds=0)
 
 
 ## 🔗 Links
