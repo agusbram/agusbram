@@ -25,7 +25,7 @@ Before finding my passion for computer science, I studied electronic engineering
 -  `Linux and Windows operating system administration`
 
 ### Knowledge 🧠  
-![Top Langs](https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=agusbram&layout=compact&theme=github_dark&langs_count=8)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusbram)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔗 Links
